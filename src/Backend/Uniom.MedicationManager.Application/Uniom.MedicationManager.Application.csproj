@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Uniom.MedicationManager.Communication\Uniom.MedicationManager.Communication.csproj" />
+    <ProjectReference Include="..\..\Shared\Uniom.MedicationManager.Exceptions\Uniom.MedicationManager.Exceptions.csproj" />
+    <ProjectReference Include="..\Uniom.MedicationManager.Domain\Uniom.MedicationManager.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
