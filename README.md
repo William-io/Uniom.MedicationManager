@@ -1,5 +1,8 @@
 # Introduction 
-Projeto pessoal que tem como foco administrar o uso de medicamentos á nivel pediátrico. Projeto gerenciado sob Metodologia ágil: Scrum, hospedado no AzureDevOps/Github 
+Projeto pessoal que tem como foco administrar o uso de medicamentos á nivel pediátrico. Projeto gerenciado sob Metodologia ágil: Scrum, hospedado no AzureDevOps/Github: https://dev.azure.com/William-io/Uniom.MedicationManager 
+
+![image](https://user-images.githubusercontent.com/70063088/187934840-7b67db7b-feb3-4f2e-a465-573525ab0574.png)
+
 
 # Getting Started
  Guide users through getting your code up and running on their own system. In this section you can talk about:
