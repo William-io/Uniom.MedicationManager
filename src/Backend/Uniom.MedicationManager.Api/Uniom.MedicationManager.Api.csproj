@@ -14,6 +14,7 @@
     <ProjectReference Include="..\..\Shared\Uniom.MedicationManager.Communication\Uniom.MedicationManager.Communication.csproj" />
     <ProjectReference Include="..\..\Shared\Uniom.MedicationManager.Exceptions\Uniom.MedicationManager.Exceptions.csproj" />
     <ProjectReference Include="..\Uniom.MedicationManager.Application\Uniom.MedicationManager.Application.csproj" />
+    <ProjectReference Include="..\Uniom.MedicationManager.Infrastructure\Uniom.MedicationManager.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
