@@ -14,7 +14,7 @@ namespace Uniom.MedicationManager.Infrastructure.Migrations
             var query = "SELECT COUNT(*) FROM sys.databases WHERE name = @Name";
             var param = new { Name = nameDatabase };
             var hasDatabase = conn.ExecuteScalar<int>(query, param) != 0;
-
+            //teste
             if (!hasDatabase)
             {
                 conn.Close();
